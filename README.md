@@ -9,9 +9,9 @@
 
 - ✨ Student of life :)
   
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 Currently learning many things, I believe that everyday is a learning opportunity.
 
-- 📚 I am currently studying at [UTN](https://fra.utn.edu.ar/)
+- 📚 Currently studying at [UTN](https://fra.utn.edu.ar/)
 
 - I’m currently open for an Intern or a new job opportunity
 
