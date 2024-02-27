@@ -49,7 +49,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/melo-ezequiel/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="meloezequiel" height="50" width="50" /></a>
-<a href="mailto:ezequielanthonymelo@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt=ezequielanthonymelo@gmail.com mail height="50" width="50";" /></a>
+<a href="mailto:ezequielanthonymelo@gmail.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt=ezequielanthonymelo@gmail.com mail height="50" width="50";" /></a>
 </p>
 
 ---
