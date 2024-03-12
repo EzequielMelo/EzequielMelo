@@ -45,14 +45,6 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/melo-ezequiel/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="meloezequiel" height="50" width="50" /></a>
-<a href="mailto:ezequielanthonymelo@gmail.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt=ezequielanthonymelo@gmail.com mail height="50" width="50";" /></a>
-</p>
-
----
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/></a>
@@ -67,6 +59,14 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/></a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/></a> 
+</p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/melo-ezequiel/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="meloezequiel" height="50" width="50" /></a>
+<a href="mailto:ezequielanthonymelo@gmail.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt=ezequielanthonymelo@gmail.com mail height="50" width="50";" /></a>
 </p>
 
 ---
