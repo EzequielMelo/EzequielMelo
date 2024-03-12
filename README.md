@@ -73,7 +73,7 @@
 
 <h3 align="center">Certificates:</h3>
 <p align="center">
-<a href="./certificates/Certificado_de_finalizacin_curso_InitialWeb.pdf" target="_blank">Initial Web Developer</a>
+<a href="./Certificates/Certificado_de_finalizacin_curso_InitialWeb.pdf" target="_blank">Initial Web Developer</a>
 <a href="mailto:ezequielanthonymelo@gmail.com" target="_blank">Initial Web Developer</a>
 </p>
 
