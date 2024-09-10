@@ -76,6 +76,8 @@
 <a href="./Certificates/Certificado_de_finalizacin_curso_InitialWeb.pdf" target="_blank">Initial Web Developer</a>
 <a> - </a>
 <a href="./Certificates/Certificado_de_finalizacion_curso_ReactJs.pdf" target="_blank">ReactJs</a>
+<a> - </a>
+<a href="./Certificates/Diploma_CAC.pdf" target="_blank">JavaScript/Node.js</a>
 </p>
 
 ---
