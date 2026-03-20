@@ -78,6 +78,8 @@
 <a href="./Certificates/Certificado_de_finalizacion_curso_ReactJs.pdf" target="_blank">ReactJs</a>
 <a> - </a>
 <a href="./Certificates/Diploma_CAC.pdf" target="_blank">JavaScript/Node.js</a>
+<a> - </a>
+<a href="https://www.freecodecamp.org/certification/ezzmellow/foundational-c-sharp-with-microsoft" target="_blank">C#</a>
 </p>
 
 ---
